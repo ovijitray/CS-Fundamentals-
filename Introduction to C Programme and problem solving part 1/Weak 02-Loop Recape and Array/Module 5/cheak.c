@@ -1,6 +1,7 @@
-
 #include<stdio.h>
 int main()
 {
-    printf("ovi");
+
+  
+  return 0;
 }
